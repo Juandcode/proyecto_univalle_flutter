@@ -1,4 +1,4 @@
-# clase_4_diplomado
+# proyecto diplomado
 
 A new Flutter project.
 
